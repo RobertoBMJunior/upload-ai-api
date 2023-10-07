@@ -32,5 +32,5 @@ Content-Type: application/json
 {
     "videoId": "493e0fc4-9009-4bdf-bb8e-c397469f8817",
     "temperature": 0.5,
-    "template": "Gere um resumo sucinto da transcrição do video informada a seguir: '''{transcription}'''"
+    "prompt": "Faça um resumo da transcrição a seguir em seguida cite dois animes que abordam temas de escravidão: '''{transcription}'''"
 }
